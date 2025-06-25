@@ -20,7 +20,7 @@ function App() {
         body: JSON.stringify({
           model: 'command-r-plus',
           prompt: prompt,
-          max_tokens: 300,
+          max_tokens: 500,
           temperature: 0.8
         })
       });
