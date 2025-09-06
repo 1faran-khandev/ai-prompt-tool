@@ -4,7 +4,7 @@ A simple and interactive AI Prompt Generator build with "React" and "Cohere API"
 
 # Live Demo: 
 
-[ai-prompt-tool.vercel.app] (https://ai-prompt-tool-bay.vercel.app)
+https://ai-prompt-tool-bay.vercel.app
 
 ## Features
 
