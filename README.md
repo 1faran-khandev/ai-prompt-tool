@@ -1,18 +1,20 @@
 ## AI Prompt Tool
 
-A simple and interactive AI Prompt Generator build with "React" and "Cohere API" designed to explore prompt engineering with ease and style.
+A React app that connects to an external API to generate marketing content in real-time. Demonstrates handling asynchronous data, error handling, and dynamic UI updates.
 
-# Live Demo: 
+## Live Demo: ai-prompt-tool-bay.vercel.app
 
-https://ai-prompt-tool-bay.vercel.app
+##  Key Features:
 
-## Features
+Real-time API integration for content generation
 
-- Ask any question and get a real-time AI response
-- Clean, responsive, and colorful UI.
-- Powered by Cohere's `Command-r-plus` model.
-- Clean, responsive, and colorful UI.
-- Built using React and Vite.
+Clean, responsive UI built with Tailwind CSS
+
+Handles loading and error states gracefully
+
+Editable prompts and user-friendly interaction
+
+
 
 ## Tech Stack
 
